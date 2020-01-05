@@ -1,2 +1,0 @@
-# poopoo-mod
-Poopoo mod
