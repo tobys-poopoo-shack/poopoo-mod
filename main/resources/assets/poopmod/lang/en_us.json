@@ -1,0 +1,14 @@
+{
+	"item.poopmod.poop_item": "Poop",
+	
+	//Wooden pickaxes
+	"item.poopmod.regular_wooden_pick_bind": "Regular Wooden Pickaxe Binding",
+	"item.poopmod.regular_wooden_pick_left": "Left Regular Wooden Pickaxe Head",
+	"item.poopmod.regular_wooden_pick_right": "Right Regular Wooden Pickaxe Head",
+	"item.poopmod.regular_wooden_pick_rod": "Regular Wooden Pickaxe Rod",
+	
+	"item.poopmod.strong_wooden_pick_bind": "Strong Wooden Pickaxe Binding",
+	"item.poopmod.strong_wooden_pick_left": "Left Strong Wooden Pickaxe Head",
+	"item.poopmod.strong_wooden_pick_right": "Right Strong Wooden Pickaxe Head",
+	"item.poopmod.strong_wooden_pick_rod": "Strong Wooden Pickaxe Rod"
+}
