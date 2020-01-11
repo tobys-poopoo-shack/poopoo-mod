@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": 
+	[
+    "XX",
+    " a",
+    " a"
+  	],
+
+  "key": {
+	 "a": { "item": "minecraft:stick" },
+   	 "X": { "tag": "minecraft:planks" }
+  		},
+
+  "result": { "item": "poopmod:weak_wooden_hoe" }
+}

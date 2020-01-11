@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": 
+	[
+    " w ",
+    "aqs",
+    " d "
+  	],
+
+  "key": {
+	 "w": { "item": "poopmod:regular_wooden_pick_bind" },
+	 "a": { "item": "poopmod:regular_wooden_pick_left" },
+	 "s": { "item": "poopmod:regular_wooden_pick_right" },
+	 "d": { "item": "poopmod:regular_wooden_pick_rod" },
+   	 "q": { "item": "poopmod:weak_wooden_pickaxe" }
+  		},
+
+  "result": { "item": "minecraft:wooden_pickaxe" }
+}
